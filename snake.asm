@@ -1,3 +1,4 @@
+	;author: yuval levy
 	IDEAL
 	MODEL small
 	STACK 100h
